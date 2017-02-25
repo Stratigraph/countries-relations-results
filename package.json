@@ -4,9 +4,7 @@
   "description": "A project for displaying the results obtained from the research on the countries relations from GDELT",
   "main": "index.js",
   "scripts": {
-    "babel": "babel --presets es2015 index.js -o build/index.bundle.js",
-    "start": "http-server -p 9000",
-    "webpack": "webpack"
+    "start": "webpack-dev-server --hot --inline --port 9000 --open"
   },
   "repository": {
     "type": "git",
