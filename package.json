@@ -4,7 +4,8 @@
   "description": "A project for displaying the results obtained from the research on the countries relations from GDELT",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "babel": "babel --presets es2015 index.js -o build/index.bundle.js",
+    "start": "http-server -p 9000"
   },
   "repository": {
     "type": "git",
