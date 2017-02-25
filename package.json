@@ -1,0 +1,31 @@
+{
+  "name": "countries-relations-results",
+  "version": "1.0.0",
+  "description": "A project for displaying the results obtained from the research on the countries relations from GDELT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvetanov/countries-relations-results.git"
+  },
+  "keywords": [
+    "research",
+    "countries",
+    "relations",
+    "gdelt"
+  ],
+  "author": "cvetanovgoce@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvetanov/countries-relations-results/issues"
+  },
+  "homepage": "https://github.com/cvetanov/countries-relations-results#readme",
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-core": "^6.23.1",
+    "babel-preset-es2015": "^6.22.0",
+    "http-server": "^0.9.0"
+  }
+}
