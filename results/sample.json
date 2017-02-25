@@ -1,0 +1,778 @@
+[
+ {
+   "cluster": 0,
+   "country": "Turkmenistan"
+ },
+ {
+   "cluster": 0,
+   "country": "Solomon Islands"
+ },
+ {
+   "cluster": 0,
+   "country": "Laos"
+ },
+ {
+   "cluster": 0,
+   "country": "Mongolia"
+ },
+ {
+   "cluster": 0,
+   "country": "Saint Kitts and Nevis"
+ },
+ {
+   "cluster": 0,
+   "country": "Andorra"
+ },
+ {
+   "cluster": 0,
+   "country": "Vanuatu"
+ },
+ {
+   "cluster": 0,
+   "country": "Nauru"
+ },
+ {
+   "cluster": 0,
+   "country": "Brunei"
+ },
+ {
+   "cluster": 0,
+   "country": "Cape Verde"
+ },
+ {
+   "cluster": 0,
+   "country": "Kiribati"
+ },
+ {
+   "cluster": 0,
+   "country": "Belize"
+ },
+ {
+   "cluster": 0,
+   "country": "Kazakhstan"
+ },
+ {
+   "cluster": 0,
+   "country": "Ukraine"
+ },
+ {
+   "cluster": 0,
+   "country": "Nepal"
+ },
+ {
+   "cluster": 0,
+   "country": "Trinidad and Tobago"
+ },
+ {
+   "cluster": 0,
+   "country": "Grenada"
+ },
+ {
+   "cluster": 0,
+   "country": "New Zealand"
+ },
+ {
+   "cluster": 0,
+   "country": "Romania"
+ },
+ {
+   "cluster": 0,
+   "country": "Seychelles"
+ },
+ {
+   "cluster": 0,
+   "country": "Samoa"
+ },
+ {
+   "cluster": 0,
+   "country": "United Arab Emirates"
+ },
+ {
+   "cluster": 0,
+   "country": "Saint Vincent and the Grenadines"
+ },
+ {
+   "cluster": 0,
+   "country": "Fiji"
+ },
+ {
+   "cluster": 0,
+   "country": "Barbados"
+ },
+ {
+   "cluster": 1,
+   "country": "Canada"
+ },
+ {
+   "cluster": 1,
+   "country": "Italy"
+ },
+ {
+   "cluster": 1,
+   "country": "Bangladesh"
+ },
+ {
+   "cluster": 1,
+   "country": "Sudan"
+ },
+ {
+   "cluster": 1,
+   "country": "Congo, Democratic Republic of the"
+ },
+ {
+   "cluster": 1,
+   "country": "Costa Rica"
+ },
+ {
+   "cluster": 1,
+   "country": "Cambodia"
+ },
+ {
+   "cluster": 1,
+   "country": "Ethiopia"
+ },
+ {
+   "cluster": 1,
+   "country": "Swaziland"
+ },
+ {
+   "cluster": 1,
+   "country": "Nigeria"
+ },
+ {
+   "cluster": 1,
+   "country": "Iran"
+ },
+ {
+   "cluster": 1,
+   "country": "Western Sahara"
+ },
+ {
+   "cluster": 1,
+   "country": "Slovenia"
+ },
+ {
+   "cluster": 1,
+   "country": "Zimbabwe"
+ },
+ {
+   "cluster": 1,
+   "country": "Suriname"
+ },
+ {
+   "cluster": 1,
+   "country": "Thailand"
+ },
+ {
+   "cluster": 1,
+   "country": "Sierra Leone"
+ },
+ {
+   "cluster": 1,
+   "country": "Spain"
+ },
+ {
+   "cluster": 1,
+   "country": "Netherlands"
+ },
+ {
+   "cluster": 1,
+   "country": "Libya"
+ },
+ {
+   "cluster": 1,
+   "country": "North Korea"
+ },
+ {
+   "cluster": 1,
+   "country": "Morocco"
+ },
+ {
+   "cluster": 1,
+   "country": "Namibia"
+ },
+ {
+   "cluster": 1,
+   "country": "Mali"
+ },
+ {
+   "cluster": 1,
+   "country": "Switzerland"
+ },
+ {
+   "cluster": 1,
+   "country": "Honduras"
+ },
+ {
+   "cluster": 1,
+   "country": "Croatia"
+ },
+ {
+   "cluster": 1,
+   "country": "Angola"
+ },
+ {
+   "cluster": 1,
+   "country": "Estonia"
+ },
+ {
+   "cluster": 1,
+   "country": "Chad"
+ },
+ {
+   "cluster": 1,
+   "country": "South Africa"
+ },
+ {
+   "cluster": 1,
+   "country": "Tunisia"
+ },
+ {
+   "cluster": 1,
+   "country": "Côte d'Ivoire"
+ },
+ {
+   "cluster": 1,
+   "country": "Mexico"
+ },
+ {
+   "cluster": 1,
+   "country": "India"
+ },
+ {
+   "cluster": 1,
+   "country": "Azerbaijan"
+ },
+ {
+   "cluster": 1,
+   "country": "United Kingdom"
+ },
+ {
+   "cluster": 1,
+   "country": "Lesotho"
+ },
+ {
+   "cluster": 1,
+   "country": "Djibouti"
+ },
+ {
+   "cluster": 1,
+   "country": "Uganda"
+ },
+ {
+   "cluster": 1,
+   "country": "Kenya"
+ },
+ {
+   "cluster": 1,
+   "country": "Niger"
+ },
+ {
+   "cluster": 1,
+   "country": "Nicaragua"
+ },
+ {
+   "cluster": 1,
+   "country": "Botswana"
+ },
+ {
+   "cluster": 2,
+   "country": "Saint Martin"
+ },
+ {
+   "cluster": 2,
+   "country": "Afghanistan"
+ },
+ {
+   "cluster": 2,
+   "country": "Israel"
+ },
+ {
+   "cluster": 2,
+   "country": "Iraq"
+ },
+ {
+   "cluster": 2,
+   "country": "Central African Republic"
+ },
+ {
+   "cluster": 2,
+   "country": "Antigua and Barbuda"
+ },
+ {
+   "cluster": 2,
+   "country": "Somalia"
+ },
+ {
+   "cluster": 2,
+   "country": "Syria"
+ },
+ {
+   "cluster": 2,
+   "country": "Dominican Republic"
+ },
+ {
+   "cluster": 2,
+   "country": "Yemen"
+ },
+ {
+   "cluster": 2,
+   "country": "Jersey"
+ },
+ {
+   "cluster": 2,
+   "country": "South Sudan"
+ },
+ {
+   "cluster": 3,
+   "country": "Turkey"
+ },
+ {
+   "cluster": 3,
+   "country": "Qatar"
+ },
+ {
+   "cluster": 3,
+   "country": "Czech Republic"
+ },
+ {
+   "cluster": 3,
+   "country": "Bhutan"
+ },
+ {
+   "cluster": 3,
+   "country": "Guinea"
+ },
+ {
+   "cluster": 3,
+   "country": "Saint Lucia"
+ },
+ {
+   "cluster": 3,
+   "country": "Lithuania"
+ },
+ {
+   "cluster": 3,
+   "country": "Kyrgyzstan"
+ },
+ {
+   "cluster": 3,
+   "country": "Bahamas"
+ },
+ {
+   "cluster": 3,
+   "country": "Slovakia"
+ },
+ {
+   "cluster": 3,
+   "country": "Norway"
+ },
+ {
+   "cluster": 3,
+   "country": "Ecuador"
+ },
+ {
+   "cluster": 3,
+   "country": "Bahrain"
+ },
+ {
+   "cluster": 3,
+   "country": "Saudi Arabia"
+ },
+ {
+   "cluster": 3,
+   "country": "Belarus"
+ },
+ {
+   "cluster": 3,
+   "country": "Cuba"
+ },
+ {
+   "cluster": 3,
+   "country": "Iceland"
+ },
+ {
+   "cluster": 3,
+   "country": "Jordan"
+ },
+ {
+   "cluster": 3,
+   "country": "Austria"
+ },
+ {
+   "cluster": 3,
+   "country": "Papua New Guinea"
+ },
+ {
+   "cluster": 3,
+   "country": "China"
+ },
+ {
+   "cluster": 3,
+   "country": "Belgium"
+ },
+ {
+   "cluster": 3,
+   "country": "Germany"
+ },
+ {
+   "cluster": 3,
+   "country": "Haiti"
+ },
+ {
+   "cluster": 3,
+   "country": "Panama"
+ },
+ {
+   "cluster": 3,
+   "country": "Tonga"
+ },
+ {
+   "cluster": 3,
+   "country": "Indonesia"
+ },
+ {
+   "cluster": 3,
+   "country": "Denmark"
+ },
+ {
+   "cluster": 3,
+   "country": "Poland"
+ },
+ {
+   "cluster": 3,
+   "country": "Finland"
+ },
+ {
+   "cluster": 3,
+   "country": "Moldova"
+ },
+ {
+   "cluster": 3,
+   "country": "United States"
+ },
+ {
+   "cluster": 3,
+   "country": "Liechtenstein"
+ },
+ {
+   "cluster": 3,
+   "country": "Vietnam"
+ },
+ {
+   "cluster": 3,
+   "country": "Guinea-Bissau"
+ },
+ {
+   "cluster": 3,
+   "country": "Japan"
+ },
+ {
+   "cluster": 3,
+   "country": "Russia"
+ },
+ {
+   "cluster": 3,
+   "country": "Bulgaria"
+ },
+ {
+   "cluster": 3,
+   "country": "Pakistan"
+ },
+ {
+   "cluster": 3,
+   "country": "Cyprus"
+ },
+ {
+   "cluster": 3,
+   "country": "Uzbekistan"
+ },
+ {
+   "cluster": 3,
+   "country": "Taiwan"
+ },
+ {
+   "cluster": 3,
+   "country": "Senegal"
+ },
+ {
+   "cluster": 3,
+   "country": "Latvia"
+ },
+ {
+   "cluster": 3,
+   "country": "Mozambique"
+ },
+ {
+   "cluster": 3,
+   "country": "Hungary"
+ },
+ {
+   "cluster": 3,
+   "country": "South Korea"
+ },
+ {
+   "cluster": 3,
+   "country": "Tajikistan"
+ },
+ {
+   "cluster": 4,
+   "country": "Brazil"
+ },
+ {
+   "cluster": 4,
+   "country": "Madagascar"
+ },
+ {
+   "cluster": 4,
+   "country": "Palau"
+ },
+ {
+   "cluster": 4,
+   "country": "Georgia"
+ },
+ {
+   "cluster": 4,
+   "country": "Luxembourg"
+ },
+ {
+   "cluster": 4,
+   "country": "France"
+ },
+ {
+   "cluster": 4,
+   "country": "Rwanda"
+ },
+ {
+   "cluster": 4,
+   "country": "Peru"
+ },
+ {
+   "cluster": 4,
+   "country": "Argentina"
+ },
+ {
+   "cluster": 4,
+   "country": "Bolivia"
+ },
+ {
+   "cluster": 4,
+   "country": "Cameroon"
+ },
+ {
+   "cluster": 4,
+   "country": "Malawi"
+ },
+ {
+   "cluster": 4,
+   "country": "Benin"
+ },
+ {
+   "cluster": 4,
+   "country": "Ghana"
+ },
+ {
+   "cluster": 4,
+   "country": "Australia"
+ },
+ {
+   "cluster": 4,
+   "country": "Algeria"
+ },
+ {
+   "cluster": 4,
+   "country": "Singapore"
+ },
+ {
+   "cluster": 4,
+   "country": "El Salvador"
+ },
+ {
+   "cluster": 4,
+   "country": "Tuvalu"
+ },
+ {
+   "cluster": 4,
+   "country": "Venezuela"
+ },
+ {
+   "cluster": 4,
+   "country": "Republic of the Congo"
+ },
+ {
+   "cluster": 4,
+   "country": "Burkina Faso"
+ },
+ {
+   "cluster": 4,
+   "country": "Togo"
+ },
+ {
+   "cluster": 4,
+   "country": "Guatemala"
+ },
+ {
+   "cluster": 4,
+   "country": "Chile"
+ },
+ {
+   "cluster": 4,
+   "country": "Gambia"
+ },
+ {
+   "cluster": 4,
+   "country": "Philippines"
+ },
+ {
+   "cluster": 4,
+   "country": "Dominica"
+ },
+ {
+   "cluster": 4,
+   "country": "Mauritania"
+ },
+ {
+   "cluster": 4,
+   "country": "Maldives"
+ },
+ {
+   "cluster": 4,
+   "country": "Paraguay"
+ },
+ {
+   "cluster": 4,
+   "country": "Oman"
+ },
+ {
+   "cluster": 4,
+   "country": "Tanzania"
+ },
+ {
+   "cluster": 4,
+   "country": "Mauritius"
+ },
+ {
+   "cluster": 4,
+   "country": "Sri Lanka"
+ },
+ {
+   "cluster": 4,
+   "country": "Sweden"
+ },
+ {
+   "cluster": 4,
+   "country": "Gabon"
+ },
+ {
+   "cluster": 4,
+   "country": "Malta"
+ },
+ {
+   "cluster": 4,
+   "country": "Guyana"
+ },
+ {
+   "cluster": 4,
+   "country": "Jamaica"
+ },
+ {
+   "cluster": 4,
+   "country": "Greenland"
+ },
+ {
+   "cluster": 4,
+   "country": "Myanmar"
+ },
+ {
+   "cluster": 4,
+   "country": "Portugal"
+ },
+ {
+   "cluster": 4,
+   "country": "Uruguay"
+ },
+ {
+   "cluster": 4,
+   "country": "Egypt"
+ },
+ {
+   "cluster": 4,
+   "country": "Equatorial Guinea"
+ },
+ {
+   "cluster": 4,
+   "country": "Comoros"
+ },
+ {
+   "cluster": 4,
+   "country": "Malaysia"
+ },
+ {
+   "cluster": 4,
+   "country": "Colombia"
+ },
+ {
+   "cluster": 4,
+   "country": "Greece"
+ },
+ {
+   "cluster": 4,
+   "country": "Burundi"
+ },
+ {
+   "cluster": 4,
+   "country": "Zambia"
+ },
+ {
+   "cluster": 5,
+   "country": "East Timor"
+ },
+ {
+   "cluster": 5,
+   "country": "Liberia"
+ },
+ {
+   "cluster": 5,
+   "country": "Albania"
+ },
+ {
+   "cluster": 5,
+   "country": "Ireland"
+ },
+ {
+   "cluster": 5,
+   "country": "Kosovo"
+ },
+ {
+   "cluster": 5,
+   "country": "Kuwait"
+ },
+ {
+   "cluster": 5,
+   "country": "Montenegro"
+ },
+ {
+   "cluster": 5,
+   "country": "Macedonia"
+ },
+ {
+   "cluster": 5,
+   "country": "Eritrea"
+ },
+ {
+   "cluster": 5,
+   "country": "Bosnia and Herzegovina"
+ },
+ {
+   "cluster": 5,
+   "country": "Armenia"
+ },
+ {
+   "cluster": 5,
+   "country": "Lebanon"
+ },
+ {
+   "cluster": 5,
+   "country": "Serbia"
+ }
+]
