@@ -1,1 +1,3 @@
-document.getElementById('root').innerHTML = "Countries relations results";
+import meaningOfLife from './scripts/demo';
+
+document.getElementById('root').innerHTML = `${meaningOfLife}`;
